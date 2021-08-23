@@ -1,5 +1,5 @@
 var obj={
-    name:"Deepali",
+    name:"Deepali Sahu",
     age:24
 }
 
